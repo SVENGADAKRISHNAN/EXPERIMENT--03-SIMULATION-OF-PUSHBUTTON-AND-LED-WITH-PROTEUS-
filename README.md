@@ -2,7 +2,6 @@
 
 ## Name: S.VENGADA KRISHNAN
 ## Reg no: 212223110061
-## Date:
 
 ## Aim: 
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
